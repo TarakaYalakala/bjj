@@ -1,0 +1,1 @@
+const mytest = "test_1";
